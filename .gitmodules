@@ -1,0 +1,18 @@
+[submodule "cours-java-librarymanager-core"]
+	path = cours-java-librarymanager-core
+	url = ../cours-java-librarymanager-core
+[submodule "cours-java-librarymanager-observablelibrary"]
+	path = cours-java-librarymanager-observablelibrary
+	url = ../cours-java-librarymanager-observablelibrary
+[submodule "cours-java-librarymanager-simplegui"]
+	path = cours-java-librarymanager-simplegui
+	url = ../cours-java-librarymanager-simplegui
+[submodule "simplegui"]
+	path = simplegui
+	url = ../cours-java-librarymanager-simplegui/
+[submodule "core"]
+	path = core
+	url = ../cours-java-librarymanager-core
+[submodule "observablelibrary"]
+	path = observablelibrary
+	url = ../cours-java-librarymanager-observablelibrary
